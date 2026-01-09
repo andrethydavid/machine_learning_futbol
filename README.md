@@ -3,3 +3,5 @@
 # Machine Learning y Análisis de Datos Deportivos
 
 “Cebollitas FC” es un proyecto práctico de Machine Learning (ML) e Inteligencia Artificial aplicado al fútbol, creado para entender cómo funcionan los modelos de ML y cómo pueden usarse para mejorar el análisis deportivo.
+
+A través de cuadernos interactivos con código y explicaciones paso a paso, el proyecto muestra cómo transformar datos tabulares, imágenes y texto en información útil que apoye la toma de decisiones de equipos, analistas y aficionados.
