@@ -13,3 +13,7 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 
 ✅ Preparación y limpieza de datos  
 ✅ Exploración y visualización de patrones en partidos y jugadores  
+✅ Ingeniería de características relevantes  
+✅ Modelos de Machine Learning para predicción  
+✅ Evaluación de desempeño de modelos  
+✅ Conclusiones y reflexiones finales
