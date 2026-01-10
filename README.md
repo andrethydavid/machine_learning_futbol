@@ -7,3 +7,9 @@
 A través de cuadernos interactivos con código y explicaciones paso a paso, el proyecto muestra cómo transformar datos tabulares, imágenes y texto en información útil que apoye la toma de decisiones de equipos, analistas y aficionados.
 
 El objetivo principal es aprender haciendo, explorando cómo los modelos de Machine Learning pueden generar insights accionables y aportar valor real en el entorno futbolístico. ⚽📊
+
+
+## 📌 ¿Qué incluye el proyecto?
+
+✅ Preparación y limpieza de datos  
+✅ Exploración y visualización de patrones en partidos y jugadores  
