@@ -17,3 +17,13 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 ✅ Modelos de Machine Learning para predicción  
 ✅ Evaluación de desempeño de modelos  
 ✅ Conclusiones y reflexiones finales
+
+## 🛠 Tecnologías usadas
+
+| Herramienta | Uso principal |
+|-------------|---------------|
+| Python | Lenguaje principal |
+| Jupyter Notebook | Documentación interactiva |
+| NumPy / Pandas | Transformación de datos |
+| Scikit-learn | Modelos de ML |
+| Matplotlib / Seaborn | Visualización de datos |
