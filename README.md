@@ -27,3 +27,5 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 | NumPy / Pandas | Transformación de datos |
 | Scikit-learn | Modelos de ML |
 | Matplotlib / Seaborn | Visualización de datos |
+
+📂 Estructura del repositorio
