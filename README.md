@@ -29,4 +29,4 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 | Matplotlib / Seaborn | Visualización de datos |
 
 📂 Estructura del repositorio
-...
+... red
