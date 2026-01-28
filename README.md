@@ -28,4 +28,23 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 | Scikit-learn | Modelos de ML |
 | Matplotlib / Seaborn | Visualización de datos |
 
-📂 Estructura del repositorio
+# # 📂 Estructura del repositorio
+
+machine_learning_futbol/
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── data/
+│   ├── raw/
+│   ├── interim/
+│   └── processed/
+├── notebooks/
+├── src/
+│   ├── data/
+│   ├── features/
+│   ├── models/
+│   └── utils/
+├── models/
+├── reports/
+│   └── figures/
+└── tests/
