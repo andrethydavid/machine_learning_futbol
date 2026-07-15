@@ -25,7 +25,7 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 | Python | Lenguaje principal |
 | Jupyter Notebook | Documentación interactiva |
 | NumPy / Pandas | Transformación de datos |
-| Scikit-learn | Modelos de ML | .
+| Scikit-learn | Modelos de ML | 
 | Matplotlib / Seaborn | Visualización de datos |
 
 
