@@ -28,5 +28,9 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 | Scikit-learn | Modelos de ML | 
 | Matplotlib / Seaborn | Visualización de datos |
 
+Notebooks (.ipynb) – Flujo del proyecto:
+
+
+
 
 
