@@ -29,6 +29,17 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 | Matplotlib / Seaborn | Visualización de datos |
 
 ## Notebooks (.ipynb) – Flujo del proyecto:
+02_preparacion.ipynb – Preparación y limpieza de datos.
+03_exploracion_datos_cebollitas.ipynb – Exploración inicial y visualizaciones.
+04_escalado_datos_cebollitas.ipynb – Escalado/normalización de variables.
+05_ingenieria_caracteristicas_cebollitas.ipynb – Ingeniería de features.
+06_seleccion_caracteristicas_cebollitas.ipynb – Selección de características.
+07_division_datos_interactiva.ipynb – División de datos (train/test) interactiva.
+08_regresion_lineal_cebollitas.ipynb – Modelo de regresión lineal.
+09_evaluacion_modelo_cebollitas.ipynb – Evaluación del modelo.
+10_reflexion_modelo_regresion_cebollitas.ipynb – Reflexión sobre la regresión.
+
+
 
 
 
