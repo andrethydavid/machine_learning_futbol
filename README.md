@@ -38,6 +38,14 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 08_regresion_lineal_cebollitas.ipynb – Modelo de regresión lineal.
 09_evaluacion_modelo_cebollitas.ipynb – Evaluación del modelo.
 10_reflexion_modelo_regresion_cebollitas.ipynb – Reflexión sobre la regresión.
+11_Bonus.ipynb – Notebook de bonus.
+12_Clase_Reflexion_Critica_Conclusion.ipynb – Reflexión crítica y conclusiones finales.
+16_clustering_kmeans_jugadores.ipynb – Clustering con K-Means en jugadores.
+17_interpretacion_clusters_jugadores.ipynb – Interpretación de los clusters.
+18_pca_visualizacion_jugadores.ipynb – PCA y visualización.
+19_pipeline_avanzado_presentacion.ipynb – Pipeline avanzado (para presentación).
+20_intro_redes_neuronales.ipynb – Introducción a redes neuronales.
+
 
 
 
