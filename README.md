@@ -1,4 +1,4 @@
-# PROYECTO  DE  MML DE FUTBOL ⚽
+# PROYECTO  DE  MML DE FUTBOL ⚽ 🥅 
 
 # Machine Learning y Análisis de Datos Deportivos
 
@@ -49,7 +49,7 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 
 
 
-
+red
 
 
 
