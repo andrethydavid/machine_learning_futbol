@@ -49,7 +49,6 @@ El objetivo principal es aprender haciendo, explorando cómo los modelos de Mach
 
 
 
-red
 
 
 
